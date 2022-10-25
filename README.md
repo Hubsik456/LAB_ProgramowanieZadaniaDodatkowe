@@ -1,1 +1,4 @@
-# LAB_ProgramowanieZadaniaDodatkowe
+LAB Programowanie ZadaniaDodatkowe
+
+Hubert Michna
+67259
